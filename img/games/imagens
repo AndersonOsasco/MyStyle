@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>StyleBr - Games</title>
+  <link rel="stylesheet" href="../CSS/style.css">
+</head>
+<body>
+  <h1>Categoria: Games</h1>
+  <div class="gallery">
+    <img src="../img/games/imagens/nomedaimagem.png" alt="Game 1">
+    <!-- Substitua 'nomedaimagem.png' pelo nome real da imagem -->
+  </div>
+  <a href="../index.html">⬅ Voltar</a>
+</body>
+</html>
