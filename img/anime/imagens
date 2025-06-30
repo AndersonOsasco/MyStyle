@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>StyleBr - Anime</title>
+  <link rel="stylesheet" href="../CSS/style.css">
+</head>
+<body>
+  <h1>Categoria: Anime</h1>
+  <div class="gallery">
+    <img src="../img/anime/imagens/Screenshot_20250301-144552.png" alt="Anime 1">
+    <!-- Adicione mais imagens abaixo se quiser -->
+  </div>
+  <a href="../index.html">⬅ Voltar</a>
+</body>
+</html>
